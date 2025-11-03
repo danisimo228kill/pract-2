@@ -1,0 +1,5 @@
+package_name = "serde_json"
+repository_url = "https://github.com/serde-rs/json"
+mode = "git"
+version = "1.0.115"
+filter_substring = ""
